@@ -1,0 +1,4 @@
+region   = "..."
+domain = "..."
+subdomain = "..."
+tags = {}

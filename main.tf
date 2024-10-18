@@ -1,5 +1,5 @@
-module "subdomains" {
-  source = "../../modules/subdomain"
+module "subdomain" {
+  source = "./modules/subdomain"
 
   domain = var.domain
   subdomain = var.subdomain
