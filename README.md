@@ -1,4 +1,4 @@
-# Porkbun Subdomains domains as AWS Route 53 Hosted Zones in Terraform
+# Porkbun Subdomains as AWS Route 53 Hosted Zones using Terraform
 
 1. Follow the
    Porkbun [getting started](https://kb.porkbun.com/article/190-getting-started-with-the-porkbun-api) to use the API
